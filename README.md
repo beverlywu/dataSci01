@@ -1,3 +1,3 @@
-* Cassiopeia
 * Orion
+* Cassiopeia
 * Ursa Major
