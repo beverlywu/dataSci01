@@ -1,9 +1,8 @@
+# Assignments for The Data Scientist's Toolbox on Coursera
+Course homepage: <https://www.coursera.org/learn/data-scientists-tools/>
 
-* Orion
-* Cassiopeia
-* Ursa Major
+March 27, 2016 - 
 
-second star to the right and straight on till morning.
-adding a line in emacs
-adding a line in nano
-adding a line in vi
+## Contents
+1. README.md - creating Github repo and using basic markdown
+2. /gitCommandLineTutorial - using Bash to add/modify content in local Git repo, push to GitHub
