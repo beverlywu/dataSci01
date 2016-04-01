@@ -1,3 +1,4 @@
+<!-- Alter Ego is making some edits here -->
 # big project 
 
 initial text today is a great day but I think I'm going to make some big changes to this file very soon 
@@ -8,12 +9,14 @@ and I will want to branch and then merge this markdown file
 
 ### section 2
 
-not much to see here
+it's what you don't see that matters
 
 ### some more stuff
 
-li here's a list item
-li another idea
-li a well intentioned but terrible idea up for debate
-li a terrible idea that we have to incorporate
-li everybody will agree this idea can be scrapped
+<!-- please check markdown guides for proper list item syntax -->
+
+1. here's a list item
+2. another idea
+3. A roundabout way of saying mostly nothing
+4. a well intentioned but terrible idea NOT up for debate
+5. a great idea that we have to incorporate
